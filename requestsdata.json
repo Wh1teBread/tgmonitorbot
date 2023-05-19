@@ -1,0 +1,46 @@
+[
+    {
+        "chatid": 432061959,
+        "links": [
+            "https://example.com",
+            "https://vk.com/wh1tebread",
+            "https://httpbin.org/status/404",
+            "https://instagram.com"
+        ],
+        "delay": 15,
+        "isWorking": false,
+        "mode": ""
+    },
+    {
+        "chatid": 766342607,
+        "links": [
+            "https://vk.com/privetyasashko",
+            "https://blmb.ru",
+            "https://www.instagram.com",
+            "https://www.instagram.com",
+            "https://vk.com/music?z=audio_playlist242462138_380&access_key=be86cfad018c815828",
+            "https://m.youtube.com/watch?v=3IuywPcQW3I",
+            "https://www.instagram.com/maxgalkinru/?hl=ru",
+            "https://www.instagram.com/maxgalkinru/?hl=ru"
+        ],
+        "delay": 5,
+        "isWorking": false,
+        "mode": ""
+    },
+    {
+        "chatid": 1094711849,
+        "links": [],
+        "delay": 10,
+        "isWorking": false,
+        "mode": ""
+    },
+    {
+        "chatid": 563201559,
+        "links": [
+            "https://browser.yandex.ru/help/useful-features/special-links.html"
+        ],
+        "delay": 10,
+        "isWorking": false,
+        "mode": ""
+    }
+]
